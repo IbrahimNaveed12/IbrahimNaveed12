@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 ​🔭 I’m currently working on: Building my foundation in core programming logic and set up my dev environment.<br>​👯 I’m looking to collaborate on: Beginner-friendly open-source projects, group study sessions, and university coding hackathons.<br>​🤝 I’m looking for help with: Mastering Data Structures & Algorithms, Git/GitHub best practices, and navigating my first SE semester.<br>​🌱 I’m currently learning: C++ / Python, Linux command line basics, and software development methodologies.<br>​💬 Ask me about: Tech gadgets, setting up custom environments, or finding the best tools for productivity.<br>​⚡ Fun fact: I can debug code for two hours only to find out I was missing a semicolon (or a single typo).
 
