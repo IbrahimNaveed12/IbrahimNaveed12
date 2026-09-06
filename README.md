@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/muhammad-ibrahim-naveed/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ibrahimnaveed00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/Mibraheemnaveed"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-ghi3-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discordapp.com/users/735830711470260224"><img src="https://img.shields.io/badge/Discord-ghi3-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ### 🎯 About Me
