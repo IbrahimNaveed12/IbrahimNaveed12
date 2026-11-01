@@ -1,6 +1,6 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Ibrahim%20Naveed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineering%20%40%20COMSATS%20Lahore&descSize=18&descAlignY=58" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Muhammad%20Ibrahim%20Naveed&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%40%20COMSATS%20Lahore&descSize=18&descAlignY=60" alt="header" />
 </p>
 
 <p align="center">
@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IbrahimNaveed12&label=Profile+views&color=00C4CC&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/IbrahimNaveed12?style=for-the-badge&logo=github&color=24292e" alt="Followers" />
+  <img src="https://img.shields.io/badge/COMSATS-Lahore-0A66C2?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="COMSATS" />
+  <img src="https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-01411C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore" />
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
 </p>
 
 <p align="center">
@@ -19,31 +20,57 @@
   <a href="https://discordapp.com/users/735830711470260224"><img src="https://img.shields.io/badge/Discord-ghi3-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IbrahimNaveed12&label=Profile+views&color=00C4CC&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/IbrahimNaveed12?style=flat-square&logo=github&color=24292e" alt="Followers" />
+</p>
+
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-Software Engineering student at **COMSATS University Islamabad, Lahore Campus**. I write **C, C++ and Java** by hand to build core programming fundamentals, and I use **GenAI tools** to build and ship larger projects like banking and ATM systems while I learn how they work.
+```js
+const ibrahim = {
+  role:      "Software Engineering Student @ COMSATS Lahore",
+  writesBy:  ["C", "C++", "Java"],
+  buildsWith: "GenAI tools, for larger web projects I direct and ship myself",
+  studying:  ["Harvard CS50", "Programming Fundamentals", "Linux CLI"],
+  openTo:    ["collaboration", "study groups", "hackathons"],
+  nextMilestone: "Finish CS50 and ship a complete end-to-end project",
+};
+```
 
-- 🔭 **Building:** C/C++ practice, loop-logic pattern libraries, Java OOP, and AI-assisted banking projects
-- 📚 **Studying:** Harvard CS50, Programming Fundamentals, Linux command line
-- 🤝 **Open to:** collaboration, study groups and hackathons
-- 💬 **Talk to me about:** dev environment setup, productivity tooling, tech gadgets
-- 🎯 **Next milestone:** finish CS50 and ship a complete end-to-end project
+I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenAI** to build and ship larger web projects such as the NEXUS banking platform and a scientific calculator, both live online. Each project below is labelled so you can see which is which.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 Workflow</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/GenAI-Assisted_Development-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="GenAI" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -84,37 +111,51 @@ Software Engineering student at **COMSATS University Islamabad, Lahore Campus**.
       <a href="https://github.com/IbrahimNaveed12/java-codefiles"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🏧 ATM System</h4>
+      <p>An ATM system I designed and wrote myself, covering the core flows of a cash machine.</p>
+      <img src="https://img.shields.io/badge/Self--built-2ea44f?style=flat-square" alt="Self-built" /><br/><br/>
+      <a href="https://github.com/IbrahimNaveed12?tab=repositories"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
+    </td>
+  </tr>
 </table>
 
-### 🤖 AI-assisted: GenAI-built projects (my projects, directed and run by me)
+### 🤖 AI-assisted: GenAI-built projects (directed and shipped by me)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏧 ATM System</h4>
-      <p>An ATM simulation covering the core flows of a cash machine. Designed and directed by me, generated with GenAI.</p>
-      <img src="https://img.shields.io/badge/GenAI--built-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="GenAI-built" /><br/><br/>
-      <a href="https://github.com/IbrahimNaveed12?tab=repositories"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
+      <h4>🏦 NEXUS Neo-Banking Platform</h4>
+      <p>A 3D spatial banking interface with immersive wealth visualization, biometric security and real-time transaction flows. Designed and directed by me, generated with GenAI.</p>
+      <img src="https://img.shields.io/badge/GenAI--built-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="GenAI-built" />
+      <img src="https://img.shields.io/badge/-Live-2ea44f?style=flat-square" alt="Live" /><br/><br/>
+      <a href="https://ibrahimnaveed12.github.io/Nexus-Banking-System/"><img src="https://img.shields.io/badge/Live_Demo-00C4CC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo" /></a>
+      <a href="https://github.com/IbrahimNaveed12/Nexus-Banking-System"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h4>🏦 Bank System</h4>
-      <p>A banking system project covering account management. Designed and directed by me, generated with GenAI.</p>
-      <img src="https://img.shields.io/badge/GenAI--built-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="GenAI-built" /><br/><br/>
-      <a href="https://github.com/IbrahimNaveed12?tab=repositories"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>🧮 Scientific-Calculator</h4>
-      <p>My first GenAI project: a scientific calculator website.</p>
+      <h4>🧮 Scientific Calculator</h4>
+      <p>My first GenAI project: a scientific calculator with trigonometry, logarithms, roots, powers and constants, deployed on Vercel.</p>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/GenAI--built-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="GenAI-built" /><br/><br/>
+      <img src="https://img.shields.io/badge/GenAI--built-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="GenAI-built" />
+      <img src="https://img.shields.io/badge/-Live-2ea44f?style=flat-square" alt="Live" /><br/><br/>
+      <a href="https://calculator-pakistani.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C4CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
       <a href="https://github.com/IbrahimNaveed12/Scientific-Calculator"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
     </td>
   </tr>
 </table>
 
-<!-- Add a "Live demo" badge next to View Repo for each deployed project -->
+---
+
+## 🧭 Roadmap
+
+| Focus | Status |
+|---|---|
+| Harvard CS50 | ![In progress](https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square) |
+| C fundamentals | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
+| C++ and Java (OOP) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
+| GenAI-assisted web projects (live) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
+| First complete end-to-end project | ![Next](https://img.shields.io/badge/-Next-0A66C2?style=flat-square) |
 
 ---
 
@@ -125,8 +166,17 @@ Software Engineering student at **COMSATS University Islamabad, Lahore Campus**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IbrahimNaveed12&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/00C4CC/IbrahimNaveed12" alt="Contribution calendar" width="95%" />
 </p>
+
+<!-- Optional contribution snake: see .github/workflows/snake.yml, run it once, then uncomment:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IbrahimNaveed12/IbrahimNaveed12/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/IbrahimNaveed12/IbrahimNaveed12/output/github-snake.svg" />
+  </picture>
+</p>
+-->
 
 ---
 
@@ -136,5 +186,5 @@ Open to collaboration, study groups and hackathons. Reach me on [LinkedIn](https
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 </p>
