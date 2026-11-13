@@ -164,6 +164,16 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
       <a href="https://github.com/IbrahimNaveed12?tab=repositories"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🐍 python-foundations</h4>
+      <p>A structured collection of Python fundamentals, core syntax drills, problem-solving exercises and foundational scripts, built from scratch in numbered folders.</p>
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Self--built-2ea44f?style=flat-square" alt="Self-built" />
+      <img src="https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square" alt="In progress" /><br/><br/>
+      <a href="https://github.com/IbrahimNaveed12/python-foundations"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
+    </td>
+  </tr>
 </table>
 
 ### 🤖 AI-assisted: GenAI-built projects (directed and shipped by me)
@@ -172,7 +182,10 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
   <tr>
     <td width="50%" valign="top">
       <h4>🏦 NEXUS Neo-Banking Platform</h4>
-      <p>A 3D spatial banking interface with immersive wealth visualization, biometric security and real-time transaction flows. Designed and directed by me, generated with GenAI.</p>
+      <p>A 3D WebGL neo-banking dashboard with a kinetic particle backdrop, a balance-driven WealthSphere, PIN lockdown after 3 failed attempts, and synthesized Web Audio cues. It adapts the logic of my <code>ATM.java</code> (deposit rules, withdrawals in multiples of 500, PIN authentication) into a spatial UI. Designed and directed by me, generated with GenAI.</p>
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       <img src="https://img.shields.io/badge/GenAI--built-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="GenAI-built" />
       <img src="https://img.shields.io/badge/-Live-2ea44f?style=flat-square" alt="Live" /><br/><br/>
       <a href="https://ibrahimnaveed12.github.io/Nexus-Banking-System/"><img src="https://img.shields.io/badge/Live_Demo-00C4CC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live demo" /></a>
@@ -197,7 +210,7 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
 | Focus | Status |
 |---|---|
 | Django internship, Week 1 (portfolio website) | ![In progress](https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square) |
-| Python fundamentals | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
+| Python fundamentals ([python-foundations](https://github.com/IbrahimNaveed12/python-foundations)) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
 | C, C++ and Java (OOP) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
 | GenAI-assisted web projects (live) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
 | Django internship, Weeks 2 to 4 (CRUD, REST APIs, capstone) | ![Next](https://img.shields.io/badge/-Next-0A66C2?style=flat-square) |
