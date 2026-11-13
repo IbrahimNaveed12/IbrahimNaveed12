@@ -4,12 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C4CC&center=true&vCenter=true&width=640&lines=Building+strong+foundations+in+C%2C+C%2B%2B+%26+Java;Shipping+real+projects%2C+not+just+tutorials;Building+AI-assisted+apps+with+GenAI;Working+through+Harvard's+CS50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C4CC&center=true&vCenter=true&width=700&lines=Django+Intern+%40+Jamwah+Studios;Strong+foundations+in+C%2C+C%2B%2B+%26+Java;Learning+Python+%26+Django+by+building;Shipping+real+projects%2C+not+just+tutorials" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/COMSATS-Lahore-0A66C2?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="COMSATS" />
   <img src="https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-01411C?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore" />
+  <img src="https://img.shields.io/badge/Intern-Jamwah_Studios-2ea44f?style=for-the-badge&logo=django&logoColor=white" alt="Intern at Jamwah Studios" />
   <img src="https://img.shields.io/badge/Open_to-Collaboration-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
 </p>
 
@@ -31,16 +32,37 @@
 
 ```js
 const ibrahim = {
-  role:      "Software Engineering Student @ COMSATS Lahore",
-  writesBy:  ["C", "C++", "Java"],
+  role:       "Software Engineering Student @ COMSATS Lahore",
+  internship: "Django Remote Intern @ Jamwah Studios (Nov to Dec 2026)",
+  writesBy:   ["C", "C++", "Java"],
+  learning:   ["Python", "Django", "Git & GitHub workflows", "Linux CLI"],
   buildsWith: "GenAI tools, for larger web projects I direct and ship myself",
-  studying:  ["Harvard CS50", "Programming Fundamentals", "Linux CLI"],
-  openTo:    ["collaboration", "study groups", "hackathons"],
-  nextMilestone: "Finish CS50 and ship a complete end-to-end project",
+  openTo:     ["collaboration", "study groups", "hackathons"],
+  nextMilestone: "Ship a complete end-to-end Django project",
 };
 ```
 
-I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenAI** to build and ship larger web projects such as the NEXUS banking platform and a scientific calculator, both live online. Each project below is labelled so you can see which is which.
+I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenAI** to build and ship larger web projects such as the NEXUS banking platform and a scientific calculator, both live online. Right now I am adding **Python and Django** through a 4-week remote internship. Every project below is labelled so you can see which is which.
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td valign="top">
+      <h4>🐍 Django Remote Internship · Jamwah Studios</h4>
+      <p><b>10 Nov to 10 Dec 2026</b> · 100% remote · mentored by Jamshed Ali</p>
+      <p>A 4-week program: three weekly builds plus a capstone, reviewed through GitHub.</p>
+      <table>
+        <tr><td><b>Week 1</b></td><td>Foundations and first app: Python, Git, virtual environments, MTV (URLs, views, templates), static files</td><td><img src="https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square" alt="In progress" /></td></tr>
+        <tr><td><b>Week 2</b></td><td>Models, database and CRUD</td><td><img src="https://img.shields.io/badge/-Upcoming-0A66C2?style=flat-square" alt="Upcoming" /></td></tr>
+        <tr><td><b>Week 3</b></td><td>Authentication and REST APIs</td><td><img src="https://img.shields.io/badge/-Upcoming-0A66C2?style=flat-square" alt="Upcoming" /></td></tr>
+        <tr><td><b>Week 4</b></td><td>Final project and deployment</td><td><img src="https://img.shields.io/badge/-Upcoming-0A66C2?style=flat-square" alt="Upcoming" /></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -57,10 +79,18 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
     </td>
   </tr>
   <tr>
+    <td align="center"><b>🌱 Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    </td>
+  </tr>
+  <tr>
     <td align="center"><b>🧰 Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
@@ -76,6 +106,21 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
 
 ## 🚀 Projects
 
+### 🐍 Internship work (Django)
+
+<table>
+  <tr>
+    <td valign="top">
+      <h4>🌐 Personal Portfolio Website (Week 1)</h4>
+      <p>A Django portfolio with Home, About, Projects and Contact pages, built on one shared base template with navbar and footer, plus static CSS and images.</p>
+      <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Internship-2ea44f?style=flat-square" alt="Internship" /><br/><br/>
+      <a href="https://github.com/IbrahimNaveed12/django-week1"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
+    </td>
+  </tr>
+</table>
+
 ### ✍️ Hand-written: fundamentals
 
 <table>
@@ -89,7 +134,7 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
     </td>
     <td width="50%" valign="top">
       <h4>📁 c-code-files</h4>
-      <p>A clean collection of C programming exercises and syntax tests, written to master the language fundamentals.</p>
+      <p>C exercises, syntax tests and core data structure implementations, written to master pointers, memory allocation and fundamentals.</p>
       <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/Self--built-2ea44f?style=flat-square" alt="Self-built" /><br/><br/>
       <a href="https://github.com/IbrahimNaveed12/c-code-files"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
@@ -151,11 +196,12 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
 
 | Focus | Status |
 |---|---|
-| Harvard CS50 | ![In progress](https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square) |
-| C fundamentals | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
-| C++ and Java (OOP) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
+| Django internship, Week 1 (portfolio website) | ![In progress](https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square) |
+| Python fundamentals | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
+| C, C++ and Java (OOP) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
 | GenAI-assisted web projects (live) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
-| First complete end-to-end project | ![Next](https://img.shields.io/badge/-Next-0A66C2?style=flat-square) |
+| Django internship, Weeks 2 to 4 (CRUD, REST APIs, capstone) | ![Next](https://img.shields.io/badge/-Next-0A66C2?style=flat-square) |
+| First complete end-to-end Django project | ![Next](https://img.shields.io/badge/-Next-0A66C2?style=flat-square) |
 
 ---
 
@@ -168,15 +214,6 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
 <p align="center">
   <img src="https://ghchart.rshah.org/00C4CC/IbrahimNaveed12" alt="Contribution calendar" width="95%" />
 </p>
-
-<!-- Optional contribution snake: see .github/workflows/snake.yml, run it once, then uncomment:
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IbrahimNaveed12/IbrahimNaveed12/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/IbrahimNaveed12/IbrahimNaveed12/output/github-snake.svg" />
-  </picture>
-</p>
--->
 
 ---
 
