@@ -55,7 +55,7 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
       <p><b>10 Nov to 10 Dec 2026</b> · 100% remote · mentored by Jamshed Ali</p>
       <p>A 4-week program: three weekly builds plus a capstone, reviewed through GitHub.</p>
       <table>
-        <tr><td><b>Week 1</b></td><td>Foundations and first app: Python, Git, virtual environments, MTV (URLs, views, templates), static files</td><td><img src="https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square" alt="In progress" /></td></tr>
+        <tr><td><b>Week 1</b></td><td>Foundations and first app: Python, Git, virtual environments, MTV (URLs, views, templates), static files</td><td><img src="https://img.shields.io/badge/-Completed-2ea44f?style=flat-square" alt="Completed" /></td></tr>
         <tr><td><b>Week 2</b></td><td>Models, database and CRUD</td><td><img src="https://img.shields.io/badge/-Upcoming-0A66C2?style=flat-square" alt="Upcoming" /></td></tr>
         <tr><td><b>Week 3</b></td><td>Authentication and REST APIs</td><td><img src="https://img.shields.io/badge/-Upcoming-0A66C2?style=flat-square" alt="Upcoming" /></td></tr>
         <tr><td><b>Week 4</b></td><td>Final project and deployment</td><td><img src="https://img.shields.io/badge/-Upcoming-0A66C2?style=flat-square" alt="Upcoming" /></td></tr>
@@ -115,7 +115,8 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
       <p>A Django portfolio with Home, About, Projects and Contact pages, built on one shared base template with navbar and footer, plus static CSS and images.</p>
       <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Internship-2ea44f?style=flat-square" alt="Internship" /><br/><br/>
+      <img src="https://img.shields.io/badge/Internship-2ea44f?style=flat-square" alt="Internship" />
+      <img src="https://img.shields.io/badge/-Completed-2ea44f?style=flat-square" alt="Completed" /><br/><br/>
       <a href="https://github.com/IbrahimNaveed12/django-week1"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
     </td>
   </tr>
@@ -209,7 +210,7 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
 
 | Focus | Status |
 |---|---|
-| Django internship, Week 1 (portfolio website) | ![In progress](https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square) |
+| Django internship, Week 1 (portfolio website) | ![Completed](https://img.shields.io/badge/-Completed-2ea44f?style=flat-square) |
 | Python fundamentals ([python-foundations](https://github.com/IbrahimNaveed12/python-foundations)) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
 | C, C++ and Java (OOP) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
 | GenAI-assisted web projects (live) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
@@ -222,10 +223,6 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IbrahimNaveed12&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00C4CC/IbrahimNaveed12" alt="Contribution calendar" width="95%" />
 </p>
 
 ---
