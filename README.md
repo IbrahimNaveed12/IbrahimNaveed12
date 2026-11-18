@@ -24,6 +24,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IbrahimNaveed12&label=Profile+views&color=00C4CC&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/IbrahimNaveed12?style=flat-square&logo=github&color=24292e" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/IbrahimNaveed12?style=flat-square&logo=github&color=24292e&label=Total+stars" alt="Stars" />
+</p>
+
+<p align="center">
+  <a href="#-about-me">About</a> ·
+  <a href="#-experience">Experience</a> ·
+  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> ·
+  <a href="#-projects">Projects</a> ·
+  <a href="#-roadmap">Roadmap</a> ·
+  <a href="#-github-stats">Stats</a> ·
+  <a href="#-lets-connect">Connect</a>
 </p>
 
 ---
@@ -38,11 +49,22 @@ const ibrahim = {
   learning:   ["Python", "Django", "Git & GitHub workflows", "Linux CLI"],
   buildsWith: "GenAI tools, for larger web projects I direct and ship myself",
   openTo:     ["collaboration", "study groups", "hackathons"],
+  habit:      "Commit something every single day",
   nextMilestone: "Ship a complete end-to-end Django project",
 };
 ```
 
 I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenAI** to build and ship larger web projects such as the NEXUS banking platform and a scientific calculator, both live online. Right now I am adding **Python and Django** through a 4-week remote internship. Every project below is labelled so you can see which is which.
+
+---
+
+## 🎯 Currently Working On
+
+| What | Where |
+|---|---|
+| 🐍 Django internship, Week 2: models, database and CRUD | Jamwah Studios |
+| 📘 Python fundamentals, numbered practice folders | [python-foundations](https://github.com/IbrahimNaveed12/python-foundations) |
+| ☕ Core Java and OOP practice | [java-codefiles](https://github.com/IbrahimNaveed12/java-codefiles) |
 
 ---
 
@@ -56,7 +78,7 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
       <p>A 4-week program: three weekly builds plus a capstone, reviewed through GitHub.</p>
       <table>
         <tr><td><b>Week 1</b></td><td>Foundations and first app: Python, Git, virtual environments, MTV (URLs, views, templates), static files</td><td><img src="https://img.shields.io/badge/-Completed-2ea44f?style=flat-square" alt="Completed" /></td></tr>
-        <tr><td><b>Week 2</b></td><td>Models, database and CRUD</td><td><img src="https://img.shields.io/badge/-Upcoming-0A66C2?style=flat-square" alt="Upcoming" /></td></tr>
+        <tr><td><b>Week 2</b></td><td>Models, database and CRUD</td><td><img src="https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square" alt="In progress" /></td></tr>
         <tr><td><b>Week 3</b></td><td>Authentication and REST APIs</td><td><img src="https://img.shields.io/badge/-Upcoming-0A66C2?style=flat-square" alt="Upcoming" /></td></tr>
         <tr><td><b>Week 4</b></td><td>Final project and deployment</td><td><img src="https://img.shields.io/badge/-Upcoming-0A66C2?style=flat-square" alt="Upcoming" /></td></tr>
       </table>
@@ -160,7 +182,8 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
   <tr>
     <td colspan="2" valign="top">
       <h4>🏧 ATM System</h4>
-      <p>An ATM system I designed and wrote myself, covering the core flows of a cash machine.</p>
+      <p>An ATM system I designed and wrote myself, covering the core flows of a cash machine: PIN authentication, deposits, and withdrawals in multiples of 500.</p>
+      <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Self--built-2ea44f?style=flat-square" alt="Self-built" /><br/><br/>
       <a href="https://github.com/IbrahimNaveed12?tab=repositories"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
     </td>
@@ -211,18 +234,24 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
 | Focus | Status |
 |---|---|
 | Django internship, Week 1 (portfolio website) | ![Completed](https://img.shields.io/badge/-Completed-2ea44f?style=flat-square) |
+| Django internship, Week 2 (models, database, CRUD) | ![In progress](https://img.shields.io/badge/-In_progress-f0ad4e?style=flat-square) |
 | Python fundamentals ([python-foundations](https://github.com/IbrahimNaveed12/python-foundations)) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
 | C, C++ and Java (OOP) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
 | GenAI-assisted web projects (live) | ![Active](https://img.shields.io/badge/-Active-2ea44f?style=flat-square) |
-| Django internship, Weeks 2 to 4 (CRUD, REST APIs, capstone) | ![Next](https://img.shields.io/badge/-Next-0A66C2?style=flat-square) |
+| Django internship, Weeks 3 and 4 (auth, REST APIs, capstone) | ![Next](https://img.shields.io/badge/-Next-0A66C2?style=flat-square) |
 | First complete end-to-end Django project | ![Next](https://img.shields.io/badge/-Next-0A66C2?style=flat-square) |
 
 ---
 
-## 📊 Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=IbrahimNaveed12&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IbrahimNaveed12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimNaveed12&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ---
