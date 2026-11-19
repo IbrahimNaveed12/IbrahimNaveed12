@@ -144,13 +144,13 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
   </tr>
 </table>
 
-### ✍️ Hand-written: fundamentals
+### ✍️ Self-written: fundamentals
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🔠 c-pattern-mastery</h4>
-      <p>50+ C loop patterns (star, number, character and advanced shapes) built for logic building and problem solving.</p>
+      <p>Different C loop patterns (star, number, character and advanced shapes) built for logic building and problem solving.</p>
       <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/Self--built-2ea44f?style=flat-square" alt="Self-built" /><br/><br/>
       <a href="https://github.com/IbrahimNaveed12/c-pattern-mastery"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" alt="View repo" /></a>
@@ -217,7 +217,7 @@ I write **C, C++ and Java** by hand to build real fundamentals, and I use **GenA
     </td>
     <td width="50%" valign="top">
       <h4>🧮 Scientific Calculator</h4>
-      <p>My first GenAI project: a scientific calculator with trigonometry, logarithms, roots, powers and constants, deployed on Vercel.</p>
+      <p>My First GenAI Project: a scientific calculator with trigonometry, logarithms, roots, powers and constants, deployed on Vercel.</p>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/GenAI--built-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="GenAI-built" />
       <img src="https://img.shields.io/badge/-Live-2ea44f?style=flat-square" alt="Live" /><br/><br/>
